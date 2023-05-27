@@ -94,12 +94,19 @@ color: #387ed1;
 .button1.hover{
     border-radius: 2px;
     background-color: black;
+}
+@media (max-width:490px ){
+#media-id{
+max-width: 300px;
 
 }
-#logo1{
-
 }
 
+@media(max-width:490px){
+    #media-id1{
+max-width: 300px;
+    }
+}
 .contents{
     display: flex;
     justify-content: center;
